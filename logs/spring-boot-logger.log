@@ -1,0 +1,1144 @@
+2020-09-21 09:24:39,051 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 11031 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:24:39,053 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:24:39,053 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:24:39,804 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:24:39,908 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:24:40,619 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:24:40,739 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.877 seconds (JVM running for 2.191)
+2020-09-21 09:25:27,842 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 11507 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:25:27,844 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:25:27,844 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:25:28,559 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:25:28,662 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:25:29,331 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:25:29,448 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.805 seconds (JVM running for 2.084)
+2020-09-21 09:26:05,456 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-1] user with email email trying to login
+2020-09-21 09:26:06,064 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-1] user with email email logged in successfully
+2020-09-21 09:26:33,154 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 11902 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:26:33,155 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:26:33,156 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:26:33,876 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:26:33,892 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 09:26:33,980 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:26:34,087 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 09:26:34,089 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 09:26:34,090 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 09:26:34,090 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 09:26:34,090 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 09:26:34,090 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 09:26:34,090 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 09:26:34,091 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 09:26:34,092 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 09:26:34,093 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 09:26:34,094 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 09:26:34,227 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2fae9666
+2020-09-21 09:26:34,227 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 09:26:34,328 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 09:26:34,344 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@f471e27
+2020-09-21 09:26:34,355 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@180e1bf
+2020-09-21 09:26:34,367 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@773c6392
+2020-09-21 09:26:34,378 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7137e9d3
+2020-09-21 09:26:34,389 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@34a6c3b8
+2020-09-21 09:26:34,401 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7a11cd8e
+2020-09-21 09:26:34,412 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@145832e4
+2020-09-21 09:26:34,422 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@24dc48e8
+2020-09-21 09:26:34,432 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2665e4c8
+2020-09-21 09:26:34,432 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:26:34,695 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:26:34,828 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.866 seconds (JVM running for 2.143)
+2020-09-21 09:27:04,328 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:27:04,329 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:27:34,330 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:27:34,331 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:28:04,331 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:28:04,332 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:28:34,332 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:28:34,333 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:29:04,334 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:29:04,335 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:29:34,335 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:29:34,336 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:30:04,336 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:30:04,337 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:30:19,438 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 09:30:19,438 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:30:19,439 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2fae9666: (connection evicted)
+2020-09-21 09:30:19,440 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@f471e27: (connection evicted)
+2020-09-21 09:30:19,441 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@180e1bf: (connection evicted)
+2020-09-21 09:30:19,442 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@773c6392: (connection evicted)
+2020-09-21 09:30:19,443 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7137e9d3: (connection evicted)
+2020-09-21 09:30:19,443 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@34a6c3b8: (connection evicted)
+2020-09-21 09:30:19,444 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7a11cd8e: (connection evicted)
+2020-09-21 09:30:19,444 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@145832e4: (connection evicted)
+2020-09-21 09:30:19,445 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@24dc48e8: (connection evicted)
+2020-09-21 09:30:19,446 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2665e4c8: (connection evicted)
+2020-09-21 09:30:19,446 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 09:30:19,446 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 09:30:20,938 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 12649 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:30:20,939 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:30:20,940 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:30:21,648 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:30:21,664 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 09:30:21,752 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:30:21,852 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 09:30:21,853 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 09:30:21,854 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 09:30:21,855 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 09:30:21,856 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 09:30:21,857 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 09:30:21,857 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 09:30:21,857 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 09:30:21,857 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 09:30:21,857 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 09:30:21,980 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@14518977
+2020-09-21 09:30:21,980 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 09:30:22,081 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 09:30:22,096 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@272ea350
+2020-09-21 09:30:22,108 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@29e959c5
+2020-09-21 09:30:22,121 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3ab25997
+2020-09-21 09:30:22,133 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@59761875
+2020-09-21 09:30:22,145 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@20ad32d8
+2020-09-21 09:30:22,156 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@49f13308
+2020-09-21 09:30:22,167 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@59fe6151
+2020-09-21 09:30:22,177 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@cb5d0fb
+2020-09-21 09:30:22,187 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@45c70847
+2020-09-21 09:30:22,187 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:30:22,443 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:30:22,552 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.792 seconds (JVM running for 2.178)
+2020-09-21 09:30:32,248 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-5] user with email email trying to login
+2020-09-21 09:30:32,850 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-5] user with email email logged in successfully
+2020-09-21 09:30:52,081 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:30:52,081 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:31:22,082 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:31:22,083 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:31:52,083 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:31:52,084 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:32:22,084 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:32:22,085 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:32:52,086 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:32:52,087 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:32:57,934 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 09:32:57,934 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:32:57,935 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@14518977: (connection evicted)
+2020-09-21 09:32:57,936 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@272ea350: (connection evicted)
+2020-09-21 09:32:57,937 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@29e959c5: (connection evicted)
+2020-09-21 09:32:57,938 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@3ab25997: (connection evicted)
+2020-09-21 09:32:57,938 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@59761875: (connection evicted)
+2020-09-21 09:32:57,939 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@20ad32d8: (connection evicted)
+2020-09-21 09:32:57,940 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@49f13308: (connection evicted)
+2020-09-21 09:32:57,940 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@59fe6151: (connection evicted)
+2020-09-21 09:32:57,941 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@cb5d0fb: (connection evicted)
+2020-09-21 09:32:57,942 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@45c70847: (connection evicted)
+2020-09-21 09:32:57,943 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 09:32:57,943 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 09:32:59,394 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 13162 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:32:59,396 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:32:59,396 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:33:00,111 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:33:00,125 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 09:33:00,213 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:33:00,319 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 09:33:00,321 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 09:33:00,322 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 09:33:00,323 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 09:33:00,324 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 09:33:00,325 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 09:33:00,325 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 09:33:00,325 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 09:33:00,325 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 09:33:00,325 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 09:33:00,447 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@237b1137
+2020-09-21 09:33:00,447 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 09:33:00,548 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 09:33:00,561 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6f81f210
+2020-09-21 09:33:00,573 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@61461190
+2020-09-21 09:33:00,585 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@408a7cc6
+2020-09-21 09:33:00,596 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@11113fd6
+2020-09-21 09:33:00,607 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@53abdc64
+2020-09-21 09:33:00,619 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4b5cb648
+2020-09-21 09:33:00,629 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@230eeb40
+2020-09-21 09:33:00,639 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@441a5801
+2020-09-21 09:33:00,654 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@495fe41a
+2020-09-21 09:33:00,654 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:33:00,896 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:33:01,015 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.814 seconds (JVM running for 2.084)
+2020-09-21 09:33:07,680 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-7] user with email email trying to login
+2020-09-21 09:33:08,293 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-7] user with email email logged in successfully
+2020-09-21 09:33:30,548 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:33:30,549 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:34:00,550 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:34:00,551 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:34:30,551 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:34:30,552 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:35:00,553 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:35:00,553 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:35:30,554 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:35:30,555 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:36:00,556 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:36:00,557 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:36:30,557 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:36:30,558 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:37:00,559 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:37:00,560 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:37:30,560 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:37:30,561 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:38:00,562 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:38:00,562 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:38:30,562 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:38:30,563 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:39:00,564 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:39:00,565 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:39:30,566 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:39:30,567 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:40:00,567 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:40:00,568 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:40:30,569 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:40:30,569 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:41:00,570 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:41:00,570 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:41:30,570 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:41:30,571 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:42:00,572 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:42:00,572 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:42:30,572 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:42:30,573 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:43:00,574 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:43:00,575 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:43:14,876 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 09:43:14,877 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:43:14,878 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@237b1137: (connection evicted)
+2020-09-21 09:43:14,879 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6f81f210: (connection evicted)
+2020-09-21 09:43:14,880 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@61461190: (connection evicted)
+2020-09-21 09:43:14,881 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@408a7cc6: (connection evicted)
+2020-09-21 09:43:14,881 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@11113fd6: (connection evicted)
+2020-09-21 09:43:14,882 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@53abdc64: (connection evicted)
+2020-09-21 09:43:14,884 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4b5cb648: (connection evicted)
+2020-09-21 09:43:14,885 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@230eeb40: (connection evicted)
+2020-09-21 09:43:14,885 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@441a5801: (connection evicted)
+2020-09-21 09:43:14,886 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@495fe41a: (connection evicted)
+2020-09-21 09:43:14,887 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 09:43:14,887 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 09:43:17,064 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 14491 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:43:17,066 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:43:17,066 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:43:17,783 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:43:17,797 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 09:43:17,898 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:43:18,001 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 09:43:18,004 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 09:43:18,004 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 09:43:18,004 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 09:43:18,005 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 09:43:18,006 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 09:43:18,006 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 09:43:18,006 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 09:43:18,006 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 09:43:18,006 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 09:43:18,007 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 09:43:18,008 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 09:43:18,009 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 09:43:18,009 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 09:43:18,138 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@406ae857
+2020-09-21 09:43:18,139 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 09:43:18,239 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 09:43:18,253 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@28994711
+2020-09-21 09:43:18,266 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@265eac72
+2020-09-21 09:43:18,277 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5a0c47b
+2020-09-21 09:43:18,288 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@564ec581
+2020-09-21 09:43:18,299 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4ccd688
+2020-09-21 09:43:18,309 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@240e695d
+2020-09-21 09:43:18,320 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@66635340
+2020-09-21 09:43:18,330 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@302a2e3
+2020-09-21 09:43:18,340 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@61984c9d
+2020-09-21 09:43:18,340 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:43:18,582 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:43:18,687 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.806 seconds (JVM running for 2.106)
+2020-09-21 09:43:25,256 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-10] user with email email trying to login
+2020-09-21 09:43:25,852 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-10] created JWT token for username : email
+2020-09-21 09:43:25,862 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-10] user with email email logged in successfully
+2020-09-21 09:43:48,240 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:43:48,241 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:44:15,509 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 09:44:15,509 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:44:15,510 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@406ae857: (connection evicted)
+2020-09-21 09:44:15,511 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@28994711: (connection evicted)
+2020-09-21 09:44:15,512 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@265eac72: (connection evicted)
+2020-09-21 09:44:15,512 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5a0c47b: (connection evicted)
+2020-09-21 09:44:15,513 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@564ec581: (connection evicted)
+2020-09-21 09:44:15,513 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4ccd688: (connection evicted)
+2020-09-21 09:44:15,514 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@240e695d: (connection evicted)
+2020-09-21 09:44:15,514 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@66635340: (connection evicted)
+2020-09-21 09:44:15,515 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@302a2e3: (connection evicted)
+2020-09-21 09:44:15,515 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@61984c9d: (connection evicted)
+2020-09-21 09:44:15,516 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 09:44:15,516 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 09:45:06,135 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 14970 (/home/alexey/trsr/FtpService/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/trsr/FtpService/SpringBootSecurityTest)
+2020-09-21 09:45:06,136 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 09:45:06,136 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 09:45:06,846 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 09:45:06,861 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 09:45:06,956 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 09:45:07,054 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 09:45:07,056 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 09:45:07,057 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 09:45:07,058 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 09:45:07,059 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 09:45:07,060 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 09:45:07,060 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 09:45:07,208 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5bcd0554
+2020-09-21 09:45:07,209 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 09:45:07,309 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 09:45:07,323 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@a4a1329
+2020-09-21 09:45:07,334 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@48dec10
+2020-09-21 09:45:07,346 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1f3976ef
+2020-09-21 09:45:07,357 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@743fe474
+2020-09-21 09:45:07,368 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@71459d36
+2020-09-21 09:45:07,379 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7ad2cb2e
+2020-09-21 09:45:07,389 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7c582294
+2020-09-21 09:45:07,399 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@21d14042
+2020-09-21 09:45:07,411 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7c20d563
+2020-09-21 09:45:07,411 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:45:07,732 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 09:45:07,835 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.881 seconds (JVM running for 2.182)
+2020-09-21 09:45:26,977 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-5] user with email email trying to login
+2020-09-21 09:45:27,573 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-5] created JWT token for username : email
+2020-09-21 09:45:27,583 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-5] user with email email logged in successfully
+2020-09-21 09:45:37,310 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:45:37,310 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:45:56,124 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-10] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 09:46:07,310 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:46:07,310 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:46:37,311 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:46:37,312 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:47:07,312 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:47:07,313 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:47:37,313 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:47:37,313 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:48:07,313 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:48:07,313 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:48:13,913 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:92)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:48:13,915 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-2] Servlet.service() for servlet [dispatcherServlet] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:48:13,915 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-2] Exception Processing ErrorPage[errorCode=0, location=/error]
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:48:37,314 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:48:37,315 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:48:47,175 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-9] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:92)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:48:47,176 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-9] Servlet.service() for servlet [dispatcherServlet] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:48:47,176 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-9] Exception Processing ErrorPage[errorCode=0, location=/error]
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:49:07,315 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:49:07,316 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:49:09,331 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-10] user with email email trying to login
+2020-09-21 09:49:09,607 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-10] created JWT token for username : email
+2020-09-21 09:49:09,607 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-10] user with email email logged in successfully
+2020-09-21 09:49:15,439 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:92)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:49:15,440 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-7] Servlet.service() for servlet [dispatcherServlet] threw exception
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:49:15,441 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8092-exec-7] Exception Processing ErrorPage[errorCode=0, location=/error]
+com.examplesec.demo.security.JwtAuthenticationEception: jwt token is expaired or invalid
+	at com.examplesec.demo.security.JwtTokenFilter.doFilter(JwtTokenFilter.java:39)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:348)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:173)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-21 09:49:28,775 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-3] user with email email trying to login
+2020-09-21 09:49:29,049 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-3] created JWT token for username : email
+2020-09-21 09:49:29,049 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-3] user with email email logged in successfully
+2020-09-21 09:49:37,317 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:49:37,317 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:49:48,720 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-1] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 09:49:52,498 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-8] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 09:50:07,317 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:50:07,318 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:50:11,624 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-10] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 09:50:37,319 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:50:37,319 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:51:07,319 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:51:07,320 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:51:37,320 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:51:37,321 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:52:07,321 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:52:07,322 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:52:37,322 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:52:37,323 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:53:07,323 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:53:07,324 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:53:37,325 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:53:37,325 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:54:07,326 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:54:07,327 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:54:37,327 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:54:37,328 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:55:07,328 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:55:07,329 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:55:37,330 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:55:37,330 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:56:07,331 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:56:07,331 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:56:37,331 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:56:37,332 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:57:07,332 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:57:07,332 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:57:37,333 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:57:37,334 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:58:07,334 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:58:07,335 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:58:24,779 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-6] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 09:58:27,345 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-8] user with email email trying to login
+2020-09-21 09:58:27,627 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-8] created JWT token for username : email
+2020-09-21 09:58:27,627 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-8] user with email email logged in successfully
+2020-09-21 09:58:37,335 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:58:37,336 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:59:07,336 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:59:07,337 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:59:37,337 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 09:59:37,337 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 09:59:49,551 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-4] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 10:00:07,338 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:00:07,338 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:00:11,390 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-3] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 10:00:37,339 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:00:37,340 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:01:07,340 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:01:07,340 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:01:37,340 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:01:37,341 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:02:07,341 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:02:07,342 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:02:37,343 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:02:37,343 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:03:07,344 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:03:07,344 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:03:37,345 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:03:37,345 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:04:07,345 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:04:07,346 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:04:37,346 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:04:37,346 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:04:46,381 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-7] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 10:05:07,347 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:05:07,347 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:05:33,668 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-9] user with email email trying to login
+2020-09-21 10:05:33,958 DEBUG com.examplesec.demo.security.JwtTokenProvider [http-nio-8092-exec-9] created JWT token for username : email
+2020-09-21 10:05:33,959 DEBUG com.examplesec.demo.controllers.AuthenticationRestController [http-nio-8092-exec-9] user with email email logged in successfully
+2020-09-21 10:05:37,347 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:05:37,348 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:06:07,348 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:06:07,348 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:06:37,349 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:06:37,349 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:06:51,581 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8092-exec-6] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-09-21 10:07:07,349 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:07:07,350 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:07:37,350 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:07:37,350 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:08:07,350 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:08:07,351 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:08:37,351 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:08:37,351 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:09:07,352 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:09:07,352 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:09:37,352 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:09:37,352 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:10:07,353 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:10:07,353 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-09-21 10:10:19,039 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 10:10:19,040 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 10:10:19,041 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5bcd0554: (connection evicted)
+2020-09-21 10:10:19,042 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@a4a1329: (connection evicted)
+2020-09-21 10:10:19,043 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@48dec10: (connection evicted)
+2020-09-21 10:10:19,044 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1f3976ef: (connection evicted)
+2020-09-21 10:10:19,045 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@743fe474: (connection evicted)
+2020-09-21 10:10:19,046 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@71459d36: (connection evicted)
+2020-09-21 10:10:19,046 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7ad2cb2e: (connection evicted)
+2020-09-21 10:10:19,047 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7c582294: (connection evicted)
+2020-09-21 10:10:19,048 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@21d14042: (connection evicted)
+2020-09-21 10:10:19,048 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7c20d563: (connection evicted)
+2020-09-21 10:10:19,049 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 10:10:19,049 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 13:21:54,409 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplicationTests on alexey-System-Product-Name with PID 7613 (started by alexey in /home/alexey/test/demo/SpringBootSecurityTest)
+2020-09-21 13:21:54,411 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 13:21:54,412 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 13:21:55,117 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057
+2020-09-21 13:21:55,305 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 13:21:55,447 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 13:21:55,449 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 13:21:55,449 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 13:21:55,449 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 13:21:55,449 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 13:21:55,449 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 13:21:55,450 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 13:21:55,450 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 13:21:55,450 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 13:21:55,450 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 13:21:55,451 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 13:21:55,451 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 13:21:55,451 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 13:21:55,451 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 13:21:55,451 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 13:21:55,452 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 13:21:55,452 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 13:21:55,452 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 13:21:55,453 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 13:21:55,453 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 13:21:55,454 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 13:21:55,454 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 13:21:55,454 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 13:21:55,454 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 13:21:55,454 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 13:21:55,455 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 13:21:55,456 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 13:21:55,456 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 13:21:55,456 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 13:21:55,456 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 13:21:55,456 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 13:21:55,613 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3ac4d518
+2020-09-21 13:21:55,614 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 13:21:55,714 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 13:21:55,730 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5261d469
+2020-09-21 13:21:55,746 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5ca63055
+2020-09-21 13:21:55,759 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@41856728
+2020-09-21 13:21:55,772 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7db4c521
+2020-09-21 13:21:55,785 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@223c0897
+2020-09-21 13:21:55,797 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@79fa5c3c
+2020-09-21 13:21:55,811 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7c113c1a
+2020-09-21 13:21:55,823 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@76373568
+2020-09-21 13:21:55,835 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@348df389
+2020-09-21 13:21:55,835 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 13:21:56,312 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 13:21:56,481 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplicationTests in 2.265 seconds (JVM running for 2.777)
+2020-09-21 13:21:56,583 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 13:21:56,583 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 13:21:56,584 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@3ac4d518: (connection evicted)
+2020-09-21 13:21:56,587 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5261d469: (connection evicted)
+2020-09-21 13:21:56,589 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5ca63055: (connection evicted)
+2020-09-21 13:21:56,590 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@41856728: (connection evicted)
+2020-09-21 13:21:56,591 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7db4c521: (connection evicted)
+2020-09-21 13:21:56,593 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@223c0897: (connection evicted)
+2020-09-21 13:21:56,594 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@79fa5c3c: (connection evicted)
+2020-09-21 13:21:56,594 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7c113c1a: (connection evicted)
+2020-09-21 13:21:56,597 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@76373568: (connection evicted)
+2020-09-21 13:21:56,597 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@348df389: (connection evicted)
+2020-09-21 13:21:56,598 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 13:21:56,599 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2020-09-21 13:22:05,521 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on alexey-System-Product-Name with PID 7923 (/home/alexey/test/demo/SpringBootSecurityTest/target/classes started by alexey in /home/alexey/test/demo/SpringBootSecurityTest)
+2020-09-21 13:22:05,523 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-09-21 13:22:05,523 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-21 13:22:06,266 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtTokenFilter' configured for use
+2020-09-21 13:22:06,282 DEBUG com.zaxxer.hikari.HikariConfig [main] Driver class org.postgresql.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69
+2020-09-21 13:22:06,375 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-21 13:22:06,474 DEBUG com.zaxxer.hikari.HikariConfig [task-1] HikariPool-1 - configuration:
+2020-09-21 13:22:06,475 DEBUG com.zaxxer.hikari.HikariConfig [task-1] allowPoolSuspension.............false
+2020-09-21 13:22:06,475 DEBUG com.zaxxer.hikari.HikariConfig [task-1] autoCommit......................true
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] catalog.........................none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionInitSql...............none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTestQuery.............none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] connectionTimeout...............30000
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSource......................none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceClassName.............none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceJNDI..................none
+2020-09-21 13:22:06,476 DEBUG com.zaxxer.hikari.HikariConfig [task-1] dataSourceProperties............{password=<masked>}
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] driverClassName................."org.postgresql.Driver"
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] exceptionOverrideClassName......none
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckProperties...........{}
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] healthCheckRegistry.............none
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] idleTimeout.....................600000
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] initializationFailTimeout.......1
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] isolateInternalQueries..........false
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] jdbcUrl.........................jdbc:postgresql://localhost:5432/alpha
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] leakDetectionThreshold..........0
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maxLifetime.....................1800000
+2020-09-21 13:22:06,477 DEBUG com.zaxxer.hikari.HikariConfig [task-1] maximumPoolSize.................10
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricRegistry..................none
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] metricsTrackerFactory...........none
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] minimumIdle.....................10
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] password........................<masked>
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] poolName........................"HikariPool-1"
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] readOnly........................false
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] registerMbeans..................false
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] scheduledExecutor...............none
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] schema..........................none
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] threadFactory...................internal
+2020-09-21 13:22:06,478 DEBUG com.zaxxer.hikari.HikariConfig [task-1] transactionIsolation............default
+2020-09-21 13:22:06,479 DEBUG com.zaxxer.hikari.HikariConfig [task-1] username........................"bamboo"
+2020-09-21 13:22:06,479 DEBUG com.zaxxer.hikari.HikariConfig [task-1] validationTimeout...............5000
+2020-09-21 13:22:06,479 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2020-09-21 13:22:06,613 DEBUG com.zaxxer.hikari.pool.HikariPool [task-1] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@56fe1dc9
+2020-09-21 13:22:06,614 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2020-09-21 13:22:06,715 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-21 13:22:06,729 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@54d39ccd
+2020-09-21 13:22:06,742 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5a146827
+2020-09-21 13:22:06,754 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@53d4b040
+2020-09-21 13:22:06,771 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2af8bf4d
+2020-09-21 13:22:06,785 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@da674c3
+2020-09-21 13:22:06,797 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@624bb0ed
+2020-09-21 13:22:06,810 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@30eb7da7
+2020-09-21 13:22:06,822 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7f4882ec
+2020-09-21 13:22:06,834 DEBUG com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator [HikariPool-1 connection adder] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@41f6f1aa
+2020-09-21 13:22:06,834 DEBUG com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 13:22:07,077 WARN org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration [main] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-21 13:22:07,201 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.867 seconds (JVM running for 2.108)
+2020-09-21 13:22:08,925 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2020-09-21 13:22:08,926 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-21 13:22:08,927 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@56fe1dc9: (connection evicted)
+2020-09-21 13:22:08,928 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@54d39ccd: (connection evicted)
+2020-09-21 13:22:08,929 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5a146827: (connection evicted)
+2020-09-21 13:22:08,930 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@53d4b040: (connection evicted)
+2020-09-21 13:22:08,931 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2af8bf4d: (connection evicted)
+2020-09-21 13:22:08,932 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@da674c3: (connection evicted)
+2020-09-21 13:22:08,932 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@624bb0ed: (connection evicted)
+2020-09-21 13:22:08,933 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@30eb7da7: (connection evicted)
+2020-09-21 13:22:08,934 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7f4882ec: (connection evicted)
+2020-09-21 13:22:08,935 DEBUG com.zaxxer.hikari.pool.PoolBase [HikariPool-1 connection closer] HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@41f6f1aa: (connection evicted)
+2020-09-21 13:22:08,936 DEBUG com.zaxxer.hikari.pool.HikariPool [SpringContextShutdownHook] HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-21 13:22:08,936 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
